@@ -1,6 +1,4 @@
 # Credit by Zidan IDz
-# Open Source untuk Tujuan Pembelajaran
-
 import time
 import marshal
 import base64
